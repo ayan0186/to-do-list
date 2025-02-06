@@ -82,7 +82,7 @@ ul li::before{
     background-position: center;
 }
 
-ul li.checked{
+ul li.before{
     color: #555; 
     text-decoration: line-through;
 }
