@@ -9,8 +9,9 @@
 .container {
     width: 100%; 
     min-height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f); 
+    background: linear-gradient(135deg, #2A1A4A, #1E2A47, #1D3B28, #121212); 
     padding: 10px; 
+    animation: gradientShift 10s ease infinite; /* Smooth, subtle animation for the gradient */
 }
 
 #todo-app{
